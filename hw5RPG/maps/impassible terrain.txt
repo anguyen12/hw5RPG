@@ -1,7 +1,0 @@
-# If a tile name is here, it cannot be walked through
-# Second parameter (separated by a comma) is optional. It's just a note to yourself
-#	so you remember what the things are
-
-^ , mountain
-T , tree
-~ , water
